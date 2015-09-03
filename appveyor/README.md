@@ -6,11 +6,13 @@ optimize downloads and caching for Appveyor.com CI builds.
 * `rippled_deps.zip`
   * Built using and for Visual Studio 2013.
   * Includes:
+    * protoc 2.5.1
     * Boost 1.57
     * OpenSSL (unknown version)
 * `rippled_deps15.zip`
   * Built using and for Visual Studio 2015.
   * Includes:
+    * protoc 2.5.1
     * Boost 1.59
-    * OpenSSL 1.0.1p
+    * OpenSSL 1.0.2d
 
