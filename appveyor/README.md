@@ -24,5 +24,10 @@ optimize downloads and caching for Appveyor.com CI builds.
     * protoc 2.5.1
     * Boost 1.64
     * OpenSSL 1.0.2j (64-bit) from http://slproweb.com/products/Win32OpenSSL.html
-
-
+* `rippled_deps17.02.zip`
+  * Built using and for Visual Studio 2017 with prebuilt OpenSSL
+    libraries.
+  * Includes:
+    * protoc 2.5.1
+    * Boost 1.66
+    * OpenSSL 1.0.2j (64-bit) from http://slproweb.com/products/Win32OpenSSL.html
